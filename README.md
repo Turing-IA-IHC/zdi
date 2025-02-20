@@ -22,10 +22,10 @@ Automatización: Los libros de Jupyter Notebook permiten automatizar el proceso 
 ## ✨ Ejemplos de uso
 
 - 🔗 **[Notebook editor in GitHub](zds_editor.ipynb)**
-- [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Turing-IA-IHC/InfarctImage/blob/main/zds_editor.ipynb)
+- [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Turing-IA-IHC/zds/blob/main/zds_editor.ipynb)
 
 - 🔗 **[Notebook utils in GitHub](zds_utils.ipynb)**
-- [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Turing-IA-IHC/InfarctImage/blob/main/zds_utils.ipynb)
+- [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Turing-IA-IHC/zds/blob/main/zds_utils.ipynb)
 
 
 1. Carga de audios
@@ -100,6 +100,8 @@ brew install ffmpeg
 
 ## 🧙‍♂️ Sobre el Podcast
 Zero Day Singularity (ZDS) es un podcast que explora el futuro de la tecnología, la inteligencia artificial y la singularidad tecnológica. Cada episodio presenta discusiones profundas sobre cómo el rápido avance de la IA está transformando nuestra sociedad y qué podemos esperar en las próximas décadas.
+
+ <!-- Nosotros -->
 
 Escucha el podcast aquí <!-- Agrega el enlace a tu podcast si lo tienes disponible -->
 
